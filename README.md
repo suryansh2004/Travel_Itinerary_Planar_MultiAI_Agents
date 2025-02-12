@@ -17,7 +17,7 @@ A smart AI-powered travel assistant that generates a personalized day-trip itine
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/travel-itinerary-planner.git
+git clone https://github.com/suryansh2004/Travel_Itinerary_Planar_MultiAI_Agents
 cd travel-itinerary-planner
 ```
 
